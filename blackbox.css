@@ -1,17 +1,4 @@
-.blackbox {
-    background: black;
-  
-  
-    color: black;
-    font-size: 16px;
-    padding: 15px 30px;
-    text-decoration: none;
-   width: 450px;
-  height: 450px;
-  position: relative;
-        left: 600px;
-  }
-      
+
       
           .flex-container {
   display: flex;
