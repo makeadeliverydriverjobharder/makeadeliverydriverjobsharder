@@ -17,7 +17,7 @@
    width: 450px;
   height: 450px;
   position: relative;
-        left: 350px;
+        left: 600px;
   }
       
       
@@ -30,13 +30,13 @@
   p {text-align: center;}
 
   .logo { position: relative;
-         left: 350px;
+         left: 600px;
 
       
       }
 
       .buynow { position: relative;
-        left: 400px;
+        left: 550px;
 
      
      }
