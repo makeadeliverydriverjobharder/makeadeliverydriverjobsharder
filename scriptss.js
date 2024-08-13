@@ -1,6 +1,6 @@
 
 function myFunction() {
     
-    window.open("https://paypal.me/ElizaReaves?country.x=US&locale.x=en_US") 
+    window.open("https://i.ibb.co/4pMPBB1/IMG-0585.jpg") 
   }
   
